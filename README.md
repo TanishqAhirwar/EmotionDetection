@@ -69,3 +69,9 @@ python emotions.py --mode display
 ## Model Detection Results
 
 Input:
+![Screenshot (96)](https://github.com/TanishqAhirwar/EmotionDetection/assets/76032226/e8dc1134-3427-49b2-9e6b-577222903127)
+
+Output:
+![Screenshot (106)](https://github.com/TanishqAhirwar/EmotionDetection/assets/76032226/c576f597-d1ca-4659-8dbe-c235a11fc0fd)
+
+
