@@ -1,4 +1,4 @@
-![Alt text] C:\Users\HP\OneDrive\Documents\maxresdefault.jpg
+![maxresdefault](https://github.com/TanishqAhirwar/EmotionDetection/assets/76032226/c902a6c2-77b5-44eb-9b47-deb2ba86c238)
 
 
 # Emotion detection using deep learning
